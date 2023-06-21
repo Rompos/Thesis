@@ -8,10 +8,10 @@ for desktop PCs and smart mobile platforms”
   ~44Mb     |   ~43Mb     |  [Play](https://romposthesis.netlify.app/)
 
 ![License](https://img.shields.io/github/license/Rompos/Thesis)
-![Forks](https://img.shields.io/github/forks/Rompos/Thesis.svg)
-![Stars](https://img.shields.io/github/stars/Rompos/Thesis.svg)
-![Watchers](https://img.shields.io/github/watchers/Rompos/Thesis.svg)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/14046616-13c6-431a-be71-ee0e70cad899/deploy-status)](https://app.netlify.com/sites/romposthesis/deploys)
+![Forks](https://img.shields.io/github/forks/Rompos/Thesis)
+![Stars](https://img.shields.io/github/stars/Rompos/Thesis)
+![Watchers](https://img.shields.io/github/watchers/Rompos/Thesis)
+![Netlify Status](https://api.netlify.com/api/v1/badges/14046616-13c6-431a-be71-ee0e70cad899/deploy-status)(https://app.netlify.com/sites/romposthesis/deploys)
 
 ![Intro](Images/Intro.png)
 ![FirstLevel](Images/FirstLevel.png)
