@@ -5,7 +5,7 @@ for desktop PCs and smart mobile platforms”
 
 **Windows** | **Android** | **WebGL**
 :--------:  | :--------:  | :--------:
-  ~44Mb     |   ~43Mb     |  [Play]([https://romposthesis.netlify.app/])
+  ~44Mb     |   ~43Mb     |  [Play](https://romposthesis.netlify.app/)
 
 ![License](https://img.shields.io/github/license/Rompos/Thesis.svg)
 ![Forks](https://img.shields.io/github/forks/Rompos/Thesis.svg)
