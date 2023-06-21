@@ -7,7 +7,7 @@ for desktop PCs and smart mobile platforms”
 :--------:  | :--------:  | :--------:
   ~44Mb     |   ~43Mb     |  [Play](https://romposthesis.netlify.app/)
 
-![License](https://img.shields.io/github/license/Rompos/Thesis.svg)
+![License](https://img.shields.io/github/license/Rompos/LICENSE)
 ![Forks](https://img.shields.io/github/forks/Rompos/Thesis.svg)
 ![Stars](https://img.shields.io/github/stars/Rompos/Thesis.svg)
 ![Watchers](https://img.shields.io/github/watchers/Rompos/Thesis.svg)
