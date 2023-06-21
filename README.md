@@ -9,6 +9,6 @@ for desktop PCs and smart mobile platforms”
 ![Math](Images/maths.png)
 ![Memory](Images/memory.png)
 ![Music](Images/music.png)
-![Night](Images/night.png)
-![Night](Images/night1.png)
+![NightLevel1](Images/night.png)
+![NightLevel2](Images/night1.png)
 
