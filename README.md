@@ -14,7 +14,7 @@ for desktop PCs and smart mobile platforms”
 
 ![Intro](Images/Intro.png)
 ![FirstLevel](Images/FirstLevel.png)
-![MiniGames](Images/mini games.png)
+![MiniGames](Images/mini_games.png)
 ![Math](Images/maths.png)
 ![Memory](Images/memory.png)
 ![Music](Images/music.png)
